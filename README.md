@@ -3,4 +3,4 @@ You have recently been hired as a Data Analyst by a global IT and business consu
   * What are the top programming languages in demand?
   * What are the top database skills in demand?
   * What are the popular IDEs?
-**The Key insights found through Analysis are: **
+**The Key insights found through Analysis are:** 
